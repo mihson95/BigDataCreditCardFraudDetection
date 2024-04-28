@@ -13,7 +13,7 @@ Technologies Utilised:
 
 .ipynb Notebook Contains:
 
-Python Code for performing Data Loading (ETL Pipeline), Data Summarizing (Plots, Data Summary, Categorical and Numerical Features, Imbalance in Dataset), Data Cleaning (Removing Null Values), Data Preparation (Undersampling, Indexing, Hot Encoding, Scaling), Model Training (Logistic Regression, Random Forests, Perceptron), and Model Evaluation Metrics including why Perceptron is Preferred. 
+Python Code for performing Data Loading (ETL Pipeline), Data Summarizing (Plots, Data Summary, Categorical and Numerical Features, Imbalance in Dataset), Data Cleaning (Removing Null Values), Data Transformation (Adding 3 new Features), Data Preparation (Undersampling, Indexing, Hot Encoding, Scaling), Model Training (Logistic Regression, Random Forests, Perceptron), and Model Evaluation Metrics including why Perceptron is Preferred. 
 
 Key Takeaways:
  - The incorporation of large-scale data analytics and machine learning tools increased the efficiency of detection and monitoring through our project. 
