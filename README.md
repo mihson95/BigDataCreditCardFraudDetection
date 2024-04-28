@@ -25,22 +25,22 @@ The .ipynb Notebook Contains:
   - Model Training (Logistic Regression, Random Forests, Perceptron)
   - Model Evaluation Metrics including why Perceptron is Preferred. 
 
-[Notebook Link](/Big_Data_Project.ipynb)
+[Notebook Link](/Python_Notebook/Big_Data_Project.ipynb)
 
 ## Power BI Dashboard
 
 Our Power BI dashboard offers a comprehensive analysis of credit card transactions aimed at detecting fraudulent activities. Through a series of visualizations, we delve into various aspects of transaction data to uncover patterns and anomalies indicative of potential fraud. The dashboard provides insights across multiple dimensions, including:
 
-- Categorical breakdowns of fraudulent transactions
-- Trends over time through time series analysis
-- Spending patterns across different transaction categories
-- Geographical analysis of spending behavior
-- Financial insights into spending amounts
-- Correlations between spending and city populations
-- Relational analysis between spending amounts and fraud occurrences
-- Gender analysis providing compelling insights into spending habits and frequency of fraudulent transactions according to the gender
+- [Categorical breakdowns of fraudulent transactions](/Power_BI_ Visualizations _Dashboard/PowerBIDashboardReadme.md#category-fraud) 
+- [Trends over time through time series analysis](/Power_BI_ Visualizations _Dashboard/PowerBIDashboardReadme.md#time-series-analysis)
+- [Spending patterns across different transaction categories](/Power_BI_ Visualizations _Dashboard/PowerBIDashboardReadme.md#categorical-analysis)
+- [Geographical analysis of spending behavior](/Power_BI_ Visualizations _Dashboard/PowerBIDashboardReadme.md#geographical-analysis)
+- [Financial insights into spending amounts](/Power_BI_ Visualizations _Dashboard/PowerBIDashboardReadme.md#financial-analysis)
+- [Correlations between spending and city populations](/Power_BI_ Visualizations _Dashboard/PowerBIDashboardReadme.md#correlation-analysis)
+- [Relational analysis between spending amounts and fraud occurrences](/Power_BI_ Visualizations _Dashboard/PowerBIDashboardReadme.md#relational-analysis)
+- [Gender analysis providing compelling insights into spending habits and frequency of fraudulent transactions according to the gender](/Power_BI_ Visualizations _Dashboard/PowerBIDashboardReadme.md#gender-analysis)
 
-[Power BI Dashboard Link](/PowerBIDashboardReadme.md)
+[Power BI Dashboard Link](/Power_BI_ Visualizations _Dashboard/PowerBIDashboardReadme.md)
 
 ## Key Takeaways
 
