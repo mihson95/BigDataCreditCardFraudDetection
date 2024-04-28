@@ -11,15 +11,40 @@ Technologies Utilised:
 - Google Colab Notebooks
 - Microsoft Power BI
 
-.ipynb Notebook Contains:
 
-Python Code for performing Data Loading (ETL Pipeline), Data Summarizing (Plots, Data Summary, Categorical and Numerical Features, Imbalance in Dataset), Data Cleaning (Removing Null Values), Data Transformation (Adding 3 new Features), Data Preparation (Undersampling, Indexing, Hot Encoding, Scaling), Model Training (Logistic Regression, Random Forests, Perceptron), and Model Evaluation Metrics including why Perceptron is Preferred. 
+## Notebook Contents
+
+The .ipynb Notebook Contains:
+
+- Python Code for performing:
+  - Data Loading (ETL Pipeline)
+  - Data Summarizing (Plots, Data Summary, Categorical and Numerical Features, Imbalance in Dataset)
+  - Data Cleaning (Removing Null Values)
+  - Data Transformation (Adding 3 new Features)
+  - Data Preparation (Undersampling, Indexing, Hot Encoding, Scaling)
+  - Model Training (Logistic Regression, Random Forests, Perceptron)
+  - Model Evaluation Metrics including why Perceptron is Preferred. 
 
 [Notebook Link](/Big_Data_Project.ipynb)
 
-Key Takeaways:
- - The incorporation of large-scale data analytics and machine learning tools increased the efficiency of detection and monitoring through our project. 
- - Undersampling performs well for model training. 
- - The Perceptron classifier gives a marginally higher recall value. Hence utilizing it is beneficial for reducing False Negatives. 
- - Visualisations aid in making data-driven decisions and visualising the dataset. 
- - Continuous vigilance and adaptation are essential in combating evolving fraud tactics. 
+## Power BI Dashboard
+
+Our Power BI dashboard offers a comprehensive analysis of credit card transactions aimed at detecting fraudulent activities. Through a series of visualizations, we delve into various aspects of transaction data to uncover patterns and anomalies indicative of potential fraud. The dashboard provides insights across multiple dimensions, including:
+
+- Categorical breakdowns of fraudulent transactions
+- Trends over time through time series analysis
+- Spending patterns across different transaction categories
+- Geographical analysis of spending behavior
+- Financial insights into spending amounts
+- Correlations between spending and city populations
+- Relational analysis between spending amounts and fraud occurrences
+
+[Power BI Dashboard Link](/PowerBiDashboardReadme.md)
+
+## Key Takeaways
+
+- The incorporation of large-scale data analytics and machine learning tools increased the efficiency of detection and monitoring through our project. 
+- Undersampling performs well for model training. 
+- The Perceptron classifier gives a marginally higher recall value. Hence utilizing it is beneficial for reducing False Negatives. 
+- Visualizations aid in making data-driven decisions and visualizing the dataset. 
+- Continuous vigilance and adaptation are essential in combating evolving fraud tactics. 
