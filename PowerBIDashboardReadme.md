@@ -62,6 +62,13 @@ Our Power BI dashboard provides insights into the Rich Dataset containing detail
 
 ---
 
+### Gender Analysis
+![Gender Analysis](/Gender_Analysis.png)
+
+**Description:** The gender analysis reveals compelling insights into spending behavior and fraud occurrences across genders. It indicates that females tend to exhibit higher spending amounts compared to males. Additionally, the analysis uncovers a concerning trend suggesting that females are associated with a greater frequency of fraudulent transactions.
+
+---
+
 ## How to Use
 
 To view the interactive Power BI dashboard, please download the Power BI file from [link to Power BI file](https://ulcampus-my.sharepoint.com/:u:/g/personal/23241713_studentmail_ul_ie/EQtr6aWxqANDt4bJ-GL4fgsBaj4F-wzD8oYZjh2rTRBBcA?e=rGg4BZ).
