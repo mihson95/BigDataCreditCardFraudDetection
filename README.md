@@ -31,14 +31,14 @@ The .ipynb Notebook Contains:
 
 Our Power BI dashboard offers a comprehensive analysis of credit card transactions aimed at detecting fraudulent activities. Through a series of visualizations, we delve into various aspects of transaction data to uncover patterns and anomalies indicative of potential fraud. The dashboard provides insights across multiple dimensions, including:
 
-- Categorical breakdowns of fraudulent transactions
-- Trends over time through time series analysis
-- Spending patterns across different transaction categories
-- Geographical analysis of spending behavior
-- Financial insights into spending amounts
-- Correlations between spending and city populations
-- Relational analysis between spending amounts and fraud occurrences
-- Gender analysis providing compelling insights into spending habits and frequency of fraudulent transactions according to the gender
+- [Categorical breakdowns of fraudulent transactions](/PowerBIDashboardReadme.md#category-fraud) 
+- [Trends over time through time series analysis](/PowerBIDashboardReadme.md#time-series-analysis)
+- [Spending patterns across different transaction categories](/PowerBIDashboardReadme.md#categorical-analysis)
+- [Geographical analysis of spending behavior](/PowerBIDashboardReadme.md#geographical-analysis)
+- [Financial insights into spending amounts](/PowerBIDashboardReadme.md#financial-analysis)
+- [Correlations between spending and city populations](/PowerBIDashboardReadme.md#correlation-analysis)
+- [Relational analysis between spending amounts and fraud occurrences](/PowerBIDashboardReadme.md#relational-analysis)
+- [Gender analysis providing compelling insights into spending habits and frequency of fraudulent transactions according to the gender](/PowerBIDashboardReadme.md#gender-analysis)
 
 [Power BI Dashboard Link](/PowerBIDashboardReadme.md)
 
