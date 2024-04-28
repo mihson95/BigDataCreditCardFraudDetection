@@ -39,7 +39,7 @@ Our Power BI dashboard offers a comprehensive analysis of credit card transactio
 - Correlations between spending and city populations
 - Relational analysis between spending amounts and fraud occurrences
 
-[Power BI Dashboard Link](/PowerBiDashboardReadme.md)
+[Power BI Dashboard Link](/PowerBIDashboardReadme.md)
 
 ## Key Takeaways
 
