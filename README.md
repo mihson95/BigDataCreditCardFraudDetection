@@ -15,7 +15,7 @@ Technologies Utilised:
 
 Python Code for performing Data Loading (ETL Pipeline), Data Summarizing (Plots, Data Summary, Categorical and Numerical Features, Imbalance in Dataset), Data Cleaning (Removing Null Values), Data Transformation (Adding 3 new Features), Data Preparation (Undersampling, Indexing, Hot Encoding, Scaling), Model Training (Logistic Regression, Random Forests, Perceptron), and Model Evaluation Metrics including why Perceptron is Preferred. 
 
-[Notebook Link](/Big_Data_project.ipynb)
+[Notebook Link](/Big_Data_Project.ipynb)
 
 Key Takeaways:
  - The incorporation of large-scale data analytics and machine learning tools increased the efficiency of detection and monitoring through our project. 
