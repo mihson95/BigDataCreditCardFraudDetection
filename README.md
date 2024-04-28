@@ -38,6 +38,7 @@ Our Power BI dashboard offers a comprehensive analysis of credit card transactio
 - Financial insights into spending amounts
 - Correlations between spending and city populations
 - Relational analysis between spending amounts and fraud occurrences
+- Gender analysis providing compelling insights into spending habits and frequency of fraudulent transactions according to the gender
 
 [Power BI Dashboard Link](/PowerBIDashboardReadme.md)
 
