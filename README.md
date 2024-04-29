@@ -27,6 +27,8 @@ The .ipynb Notebook Contains:
 
 [Notebook Link](/Python_Notebook/Big_Data_Project.ipynb)
 
+[Notebook Readme Link](/Python_Notebook/Notebook_Readme.md)
+
 ## Power BI Dashboard
 
 Our Power BI dashboard offers a comprehensive analysis of credit card transactions aimed at detecting fraudulent activities. Through a series of visualizations, we delve into various aspects of transaction data to uncover patterns and anomalies indicative of potential fraud. The dashboard provides insights across multiple dimensions, including:
