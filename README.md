@@ -11,19 +11,23 @@ Technologies Utilised:
 - Google Colab Notebooks
 - Microsoft Power BI
 
+## Dataset
+
+[Dataset Link](/Dataset/fraud_prediction_data.csv)
 
 ## Notebook Contents
 
 The .ipynb Notebook Contains:
 
 - Python Code for performing:
-  - Data Loading (ETL Pipeline)
-  - Data Summarizing (Plots, Data Summary, Categorical and Numerical Features, Imbalance in Dataset)
-  - Data Cleaning (Removing Null Values)
-  - Data Transformation (Adding 3 new Features)
-  - Data Preparation (Undersampling, Indexing, Hot Encoding, Scaling)
-  - Model Training (Logistic Regression, Random Forests, Perceptron)
-  - Model Evaluation Metrics including why Perceptron is Preferred. 
+  - [Overview](/Python_Notebook/Notebook_Readme.md#overview)
+  - [Dataset Description](/Python_Notebook/Notebook_Readme.md#dataset-description)
+  - [Data Loading (ETL Pipeline)](/Python_Notebook/Notebook_Readme.md#loading-the-dataset)
+  - [Data Summarizing (Plots, Data Summary, Categorical and Numerical Features, Imbalance in Dataset)](/Python_Notebook/Notebook_Readme.md#exploratory-data-analysis-eda)
+  - [Data Transformation (Adding 3 new Features)](/Python_Notebook/Notebook_Readme.md#creating-new-features)
+  - [Data Preparation (Undersampling, Indexing, Hot Encoding, Scaling)](/Python_Notebook/Notebook_Readme.md#string-indexing-hot-encoding-and-vector-assembling-of-features-into-1-vector)
+  - Model Training ([Perceptron](/Python_Notebook/Notebook_Readme.md#model-training-perceptron), [Logistic Regression](/Python_Notebook/Notebook_Readme.md#model-training-logistic-regression), [Random Forest](/Python_Notebook/Notebook_Readme.md#model-training-random-forest))
+  - [Model Evaluation Metrics including why Perceptron is Preferred](/Python_Notebook/Notebook_Readme.md#conclusion) 
 
 [Notebook Link](/Python_Notebook/Big_Data_Project.ipynb)
 
