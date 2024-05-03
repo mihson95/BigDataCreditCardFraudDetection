@@ -17,9 +17,8 @@ Technologies Utilised:
 
 ## Notebook Contents
 
-The .ipynb Notebook Contains:
+The Jupyter Notebook Contains:
 
-- Python Code for performing:
   - [Overview](/Python_Notebook/Notebook_Readme.md#overview)
   - [Dataset Description](/Python_Notebook/Notebook_Readme.md#dataset-description)
   - [Data Loading (ETL Pipeline)](/Python_Notebook/Notebook_Readme.md#loading-the-dataset)
