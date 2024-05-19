@@ -1,15 +1,25 @@
-# BigDataCreditCardFraudDetection
+# Big Data Approach for Credit Card Fraud Detection
 
 Course Project for CS6502 - Applied Big Data and Visualization
 
 Title - Big Data Approach for Credit Card Fraud Detection
 
-Group 11 Submission
+Contributors: <br>Group 11
+- Mihir Sontake
+- Nithin Skanda
+- Jeffrey Forde
+- Amar Yandrapu
+- Altaf Ahmed
+
 
 Technologies Utilised:
 - PySpark
 - Google Colab Notebooks
 - Microsoft Power BI
+
+## Overview
+
+This Big Data project focused on credit card fraud detection. It was developed as part of the course "Applied Big Data and Visualizations" (CS6502) at the University of Limerick, taught by Dr. Andrew Ju.
 
 ## Dataset
 
