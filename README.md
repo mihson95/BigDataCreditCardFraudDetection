@@ -21,13 +21,17 @@ Technologies Utilised:
 
 This Big Data project focused on credit card fraud detection. It was developed as part of the course "Applied Big Data and Visualizations" (CS6502) at the University of Limerick, taught by Dr. Andrew Ju.
 
+## Description
+
+Credit card fraud is a pervasive issue, escalating in frequency over recent years. Our project endeavours to combat this menace by harnessing the power of big data analytics and machine learning. By scrutinizing transactional data and employing advanced algorithms, we aim to unearth patterns and anomalies indicative of fraudulent activity in real time. Through this initiative, we aspire to fortify the security of financial transactions and curtail the proliferation of fraudulent practices. The output from our Project would be predicting whether a transaction is fraudulent or not fraudulent, based on the historical data which is used to train the machine learning models - Perceptron, Logistic Regression, Random Forest. We utilized PySpark within Notebooks on Google Colab. By harnessing the power of in-memory processing, distributed computing, fault tolerance, and advanced analytics, we aimed to enhance the accuracy and efficiency of fraud detection. Our project’s goal is to safeguard financial institutions and consumers against malicious activities.
+
 ## Dataset
 
 [Dataset Link](/Dataset/fraud_prediction_data.csv)
 
 ## Notebook Contents
 
-The Jupyter Notebook Contains:
+The notebook covers various stages of the project, including data loading, exploratory data analysis (EDA), data preprocessing, model training, and evaluation. It showcases techniques for handling imbalanced datasets, data cleaning, feature engineering, and model evaluation
 
   - [Overview](/Python_Notebook/Notebook_Readme.md#overview)
   - [Dataset Description](/Python_Notebook/Notebook_Readme.md#dataset-description)
