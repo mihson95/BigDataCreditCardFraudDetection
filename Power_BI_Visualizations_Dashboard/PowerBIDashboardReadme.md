@@ -75,5 +75,5 @@ To view the interactive Power BI dashboard, please download the Power BI file fr
 
 ## Feedback
 
-We welcome any feedback or suggestions for improving our Power BI dashboard. Feel free to [contact us](mailto:sontakemihir@gmail.com) with your thoughts!
+We welcome any feedback or suggestions for improving our Power BI dashboard. Feel free to [contact me](mailto:sontakemihir@gmail.com) with your thoughts!
 
