@@ -4,13 +4,6 @@ Course Project for CS6502 - Applied Big Data and Visualization
 
 Title - Big Data Approach for Credit Card Fraud Detection
 
-Contributors: <br>Group 11
-- Mihir Sontake
-- Nithin Skanda
-- Jeffrey Forde
-- Amar Yandrapu
-- Altaf Ahmed
-
 
 Technologies Utilised:
 - PySpark
