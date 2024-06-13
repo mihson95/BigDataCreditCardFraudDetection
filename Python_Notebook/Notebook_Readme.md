@@ -315,7 +315,3 @@ You can install these libraries using pip:
 pip install pyspark matplotlib seaborn pandas
 ```
 
-## Authors
-
-- Group 11, CS6502 Module, UL (Spring 2024)
-
